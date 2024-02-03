@@ -1,3 +1,17 @@
+<svg viewBox="0 0 960 300">
+  <symbol id="s-text">
+    <text text-anchor="middle" x="50%" y="80%">Dynamic Code</text>
+  </symbol>
+
+  <g class="g-ants">
+    <use xlink:href="#s-text" class="text-copy"></use>
+    <use xlink:href="#s-text" class="text-copy"></use>
+    <use xlink:href="#s-text" class="text-copy"></use>
+    <use xlink:href="#s-text" class="text-copy"></use>
+    <use xlink:href="#s-text" class="text-copy"></use>
+  </g>
+</svg>
+
 <h1 align="center">Hi 👋, I'm Omkar Penshanwar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
