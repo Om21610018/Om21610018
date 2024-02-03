@@ -105,3 +105,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=om21610018&show_icons=true&locale=en&layout=compact" alt="om21610018" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om21610018&" alt="om21610018" /></p>
+<body/>
+<html/>
