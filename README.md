@@ -1,3 +1,4 @@
+[Dynamic Code](https://github.com/Om21610018/Om21610018/blob/main/index.html)
 <h1 align="center">Hi 👋, I'm Omkar Penshanwar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
