@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://ompen.netlify.app](https://namokar.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://namokar.netlify.app)
 
 - 💬 Ask me about **react, node, docker**
 
